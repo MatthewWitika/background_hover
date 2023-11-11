@@ -4,4 +4,5 @@
 One can adjust the speed as desired.
 
 ![blob GIF](assets/blob.gif)
+![blob GIF]("assets/blob.gif")
 ![blob GIF]([assets/blob.gif](https://github.com/MatthewWitika/blob-cursor-background/blob/80b33729681e6a145c3a9de0437faf7c29a8cf42/assets/blob.gif)https://github.com/MatthewWitika/blob-cursor-background/blob/80b33729681e6a145c3a9de0437faf7c29a8cf42/assets/blob.gif)
